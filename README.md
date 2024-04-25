@@ -1,7 +1,8 @@
 # arduino_Tea_machine
 Creating a tea-making machine with Arduino can be a fascinating project! To get started, you'll need a few components:
 Components:
-Arduino Board (like Arduino Uno or Arduino Nano)
+
+1. Arduino Board (like Arduino Uno or Arduino Nano)
 Relays or Motor Drivers (to control the heating element, pumps, or other actuators)
 Temperature Sensor (like DS18B20) to measure water temperature
 Water Heater (like a kettle or heating element)
